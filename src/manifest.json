@@ -1,0 +1,10 @@
+{
+	"name": "LeetCode Hero",
+	"description": "Unleash your coding potential with LeetCode Hero - your ultimate ally on the path to becoming a coding pro. Master LeetCode challenges with ease and style!",
+	"version": "0.0.1",
+	"manifest_version": 3,
+	"action": {
+		"default_popup": "index.html",
+		"default_title": "Open the popup"
+	}
+}
