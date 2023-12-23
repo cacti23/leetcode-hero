@@ -4,7 +4,7 @@ module.exports = {
 	extends: [
 		'eslint:recommended',
 		'plugin:react/recommended',
-		'react/jsx-runtime',
+		'plugin:react/jsx-runtime',
 		'plugin:@typescript-eslint/recommended-type-checked',
 		'plugin:react-hooks/recommended',
 		'plugin:@typescript-eslint/stylistic-type-checked',
